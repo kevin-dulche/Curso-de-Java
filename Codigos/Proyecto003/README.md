@@ -1,4 +1,6 @@
-## Errores sintácticos y lógicos
+## Hallar la superficie de un cuadrado conociendo el valor de un lado.
+
+### Errores sintácticos y lógicos
 
 ```Java
 //Public Static vod //Errores sintanticos
